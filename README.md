@@ -1,2 +1,5 @@
-# .github
-Kiln AI README
+# Kiln AI
+
+A project by [scosman](https://scosman.net/about).
+
+Coming soon!
