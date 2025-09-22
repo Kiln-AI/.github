@@ -19,6 +19,7 @@
   <a href="https://docs.kiln.tech/docs/evaluations"><strong>Evals</strong></a> • 
   <a href="https://docs.kiln.tech/docs/fine-tuning-guide"><strong>Fine Tuning</strong></a> •
   <a href="https://docs.kiln.tech/docs/synthetic-data-generation"><strong>Synthetic Data</strong></a> • 
+  <a href="https://docs.kiln.tech/docs/documents-and-search-rag"><strong>RAG</strong></a> • 
   <a href="https://docs.kiln.tech/docs/quickstart"><strong>Quick Start</strong></a> • 
   <a href="https://docs.kiln.tech"><strong>All Docs</strong></a>
 </p>
@@ -39,19 +40,21 @@
 - 📊 [**Evals**](https://docs.kiln.tech/docs/evaluations): Evaluate the quality of your models/tasks using state of the art evaluators.
 - 🎛️ [**Fine Tuning**](https://docs.kiln.tech/docs/fine-tuning-guide): Zero-code fine-tuning for Llama, GPT-4o, and more. Automatic serverless deployment of models.
 - 🤖 [**Synthetic Data Generation**](https://docs.kiln.tech/docs/synthetic-data-generation): Generate eval datasets or fine-tuning data with our interactive visual tooling.
+- 🔍 [**Docs & Search (RAG)**](https://docs.kiln.tech/docs/documents-and-search-rag): Add knowledge to your AI systems with Retrieval-Augmented Generation (RAG).
+- 🛠 [**Tools & MCP**](https://docs.kiln.tech/docs/tools-and-mcp): Connect powerful tools to your Kiln tasks
 - 🧠 [**Reasoning Models**](https://docs.kiln.tech/docs/guide-train-a-reasoning-model): Train or distill your own custom reasoning models.
 - 📝 [**Prompt Generation**](https://docs.kiln.tech/docs/prompts): Automatically generate prompts including chain-of-thought, few-shot, and multi-shot, and more.
 - 🌐 [**Comprehensive Model Support**](https://kiln.tech/model_library): Skip the guesswork — we've tested over 100 models' capabilities. Use any model via Ollama, OpenAI, OpenRouter, Fireworks, Groq, AWS, any OpenAI compatible API, and more.
 - 🤝 [**Team Collaboration**](https://docs.kiln.tech/docs/collaboration): Git-based version control for your AI datasets. Intuitive UI makes it easy to collaborate with QA, PM, and subject matter experts on data samples, evals, prompts, ratings and issues.
 - 🗃️ [**Structured Data**](https://docs.kiln.tech/docs/structured-data-json): Build AI tasks that speak JSON.
-- 🧑‍💻 **Open-Source Library and API**: Our Python library and OpenAPI REST API are MIT open source.
+- 🧑‍💻 **Open-Source [Library](https://docs.kiln.tech/developers/python-library-quickstart) and [API](https://docs.kiln.tech/developers/rest-api)**: Our Python library and OpenAPI REST API are MIT open source.
 - 🔒 [**Privacy-First**](https://docs.kiln.tech/docs/privacy): Kiln runs locally on your computer. We can't access your data. Bring your own API keys or use Ollama.
 - 📚 [**Awesome Docs**](https://docs.kiln.tech): easy-to-follow video guides, approachable for beginners, and depth for advanced users.
 - 💰 **Free**: Our apps are free and our library is open-source.
 
 ## Demo
 
-[Watch a 2 minute overview of Kiln](https://kiln.tech#demo) or watch our [end to end project demo (20 minutes)](https://docs.kiln.tech/docs/end-to-end-project-demo).
+[Watch a 2 minute overview of Kiln](https://kiln.tech#demo) or our [end to end project demo (20 minutes)](https://docs.kiln.tech/docs/end-to-end-project-demo).
 
 <kbd>
 <a href="https://kiln.tech#demo">
@@ -61,7 +64,7 @@
 
 ## People in Our Community Work For
 
-<img width="600" alt="Logo Grid" src="https://github.com/user-attachments/assets/b1550659-11b5-4c0b-8505-b89ab6f34e2e" />
+<img width="600" alt="Logo Grid" src="https://github.com/user-attachments/assets/fa633000-d0db-4140-b3be-485e4c4a71c0" />
 
 <sub>For privacy, Kiln doesn't track the identity of who uses it. People from these companies have joined our communities on Github & Discord.</sub>
 
